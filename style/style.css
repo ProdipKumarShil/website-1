@@ -10,6 +10,7 @@
     background-position: bottom right, left;
 }
 .header-title{
+    margin-top: 20px;
     font-weight: 800;
     font-size: 45px;
 }
@@ -34,7 +35,7 @@
     font-weight: 400;
 }
 .btn-primary{
-    width: 150px;
+    width: 160px;
     height: 64px;
     background-color: #fd6e0a;
     font-weight: 700;
@@ -42,7 +43,7 @@
     color: #ffffff;
     border-radius: 5px;
     border: 0;
-    /* padding: 18px 35px; */
+    
 }
 .btn-secondary{
     width: 150px;
@@ -79,6 +80,7 @@
     font-size: 18px;
     color: #757575;
     line-height: 30px;
+    margin-bottom: 20px;
 }
 
 /* About me section */
