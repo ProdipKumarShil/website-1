@@ -186,3 +186,15 @@
     line-height: 28px;
     color: #757575;
 }
+.resume-button{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 113px;
+}
+/* contract */
+.contract{
+    display: flex;
+    background-color: #fff8f3;
+}
+.contract-form{
+}
