@@ -39,6 +39,41 @@
     color: #ffffff;
     border-radius: 5px;
     border: 0;
-    padding: 18px 35px;
+    /* padding: 18px 35px; */
+}
+.btn-secondary{
+    width: 150px;
+    height: 64px;
+    font-weight: 700;
+    font-size: 20px;
+    background-color: #ffffff;
+    color: #fd6e0a;
+    border-radius: 5px;
+    border: 2px solid #fd6e0a;
+    margin-left: 30px;
 }
 /* Banner styling */
+.main-banner{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 50px 230px;
+}
+.banner-header{
+    font-size: 45px;
+    font-weight: 600;
+    color: #474747;
+    line-height: 61px;
+}
+.banner-sub-header{
+    font-weight: 700;
+    font-size: 85px;
+    color: #181818;
+    line-height: 116px;
+}
+.banner-description{
+    font-weight: 400;
+    font-size: 18px;
+    color: #757575;
+    line-height: 30px;
+}
